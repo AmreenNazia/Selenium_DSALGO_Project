@@ -38,7 +38,7 @@ public class DriverFactory {
             	LoggerLoad.info("Initializing Chrome Browser in headless mode...");
 				ChromeOptions chromeOptions = new ChromeOptions();
 	            chromeOptions.addArguments("headless");
-	            chromeOptions.addArguments("window-size=1366,768");          
+	            // chromeOptions.addArguments("window-size=1366,768");          
 	           	thdriver.set(new ChromeDriver(chromeOptions));
             	break;
             case firefox:
