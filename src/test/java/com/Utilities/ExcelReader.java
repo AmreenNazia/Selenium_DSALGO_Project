@@ -15,7 +15,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcelReader {
 
-    public static String xlsxFilePath= "C:/Users/bhanu/git/DSAlgoBDDFramework/DSAlgoBDDFramework/src/test/resources/TestData/DSAlgoTestData.xlsx";
+    public static String xlsxFilePath= "/Users/amreennaziasyed/Downloads/DSAlgoBDDFramework-master-2/DSAlgoBDDFramework/src/test/resources/TestData/DSAlgoTestData.xlsx";
     int totalRow;
     
     
