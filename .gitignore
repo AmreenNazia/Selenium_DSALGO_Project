@@ -1,0 +1,9 @@
+/target/
+/test-output/
+/extent-reports/
+/allure-results/
+/cucumber-report/
+/Logs/
+/.settings/
+*.classpath
+*.project
